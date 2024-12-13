@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "Marcia",
+        "idade": 35,
+        "esta_trabalhando": false,
+        "detalhes_profissao":{
+            "profissao":"estudante",
+            "o_que_estuda":"Desenvolvimento web"
+        },
+        "hobbies":["Cozinhar", "programar", "Ouvir música"]
+    }
+    
+]
